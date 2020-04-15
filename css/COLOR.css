@@ -1,0 +1,86 @@
+/*#################################################################---NEW COLOR SET START---#################################################################*/
+.bg-primary {
+  background-color: rgba(109, 207, 246, .1);
+}
+
+.bg-secondary {
+  background-color: #fbfbfb;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-black {
+  background-color: #171717;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-red-25 {
+  background-color: rgba(255, 0, 0, .25);
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.bg-gold {
+  background-color: gold;
+}
+
+.bg-maroon {
+  background-color: maroon;
+}
+
+.bg-moccasin {
+  background-color: #ddcbac;
+}
+
+.bg-muted {
+  background-color: #959595;
+}
+
+.bg-grey-10 {
+  background-color: rgba(215, 215, 215, .1);
+}
+
+.bg-currrent {
+  background-color: currentColor;
+}
+
+.text-primary {
+  color: #464646;
+}
+
+.text-secondary {
+  color: #d7d7d7;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-black {
+  color: #000;
+}
+
+.text-black-05 {
+  color: rgba(0,  0, 0, .05);
+}
+
+.text-muted {
+  color: #959595;
+}
+
+.text-gold {
+  color: gold;
+}
+
+@mixin font
